@@ -1,0 +1,6 @@
+rootProject.name = 'Embedded-systems-development-labs'
+
+include 'Lab-1'
+include 'Lab-2'
+include 'Lab-3'
+
